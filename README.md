@@ -1,4 +1,7 @@
-# Materials Science First Year Viscometer Project 
+# Imnovation - Materials Science First Year Viscometer Project 
+
+![image](https://user-images.githubusercontent.com/81494714/134696135-ae96afcb-4a66-4945-ab0f-97693d4378ed.png)
+
 
 ## About the project 
 As a team of 10 imnovative minds from Imperial College London, Imnovation is proud to finally 
