@@ -57,5 +57,3 @@ or college will be able to access this device to educate the youth and help deve
 
 Emir Ziyal, Anne Korotov, Karen Pacho-Domiguez, Natalie Wu, Alberto Fantini, Siddharth Puri, Younes Moustiri, Amelia Hu, Daniel Huang, Yifan Yu 
 
-## Full design report 
-
