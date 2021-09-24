@@ -53,5 +53,9 @@ revolutionary project. The 10 bright minds working in the team are more than ple
 version of our project and are looking forward to start mass producing the device, hoping that every school 
 or college will be able to access this device to educate the youth and help develop imnovative minds.
 
+## Team Members 
+
+Emir Ziyal, Anne Korotov, Karen Pacho-Domiguez, Natalie Wu, Alberto Fantini, Siddharth Puri, Younes Moustiri, Amelia Hu, Daniel Huang, Yifan Yu 
+
 ## Full design report 
 
