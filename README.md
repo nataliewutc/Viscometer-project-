@@ -10,7 +10,7 @@ concepts in the science world and has lots of uses in our daily lives, but the t
 viscometers and rheometers, can be hard to get a hand on. Our team is here to solve this by introducing the 
 Imnometer, a cheap, portable, precise and accurate viscometer alternative that is going to leave its mark in 
 the academia. We have tried to approach the problem of inaccessibility to viscometers with great care and 
-creativity, hoping to bring you the best project possible. 
+creativity, hoping to bring you the best project possible.   
 
 To briefly explain our thought process, we first examined the different types of rheometers and 
 viscometers. We saw that rheometers are much more advanced and can control and measure a wider range 
